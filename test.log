@@ -1,0 +1,15 @@
+$pwd
+~/moto/Project/git/GitHub
+
+$git clone https://github.com/motoScript/tmp.git ★GitHub上で作成したリポジトリ
+
+本メモ(test.log)を作成
+
+$git status
+$git add test.log
+$git commit -m "First Commit"
+$git branch -a
+$git push origin master
+
+
+
